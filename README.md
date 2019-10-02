@@ -1,2 +1,1 @@
-# crazyflie_kinect_control
-Crazyflie Kinect Control
+# Crazyflie 2.0 Autonomous flight using Kinect2 for position control
